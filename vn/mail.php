@@ -27,7 +27,7 @@ return [
 	
 	// post_activated (new)
 	'post_activated_title'              => 'Tài khoản của bạn đã được kích hoạt',
-	'post_activated_content_1'          => 'Xin chào, <br><br>Chiến dịch của bạn <a href=":postUrl">:title</a> đã được kích hoạt.',
+	'post_activated_content_1'          => 'Xin chào, <br><br>Tài khoản <a href=":postUrl">:title</a> của bạn đã được kích hoạt.',
 	'post_activated_content_2'          => '<br>Nó sẽ sớm được kiểm tra bởi một trong những quản trị viên của chúng tôi để công bố trên đường truyền.',
 	'post_activated_content_3'          => '<br><br>Bạn nhận được email này bởi vì gần đây bạn đã tạo một chiến dịch mới trên :appName. Nếu đây không phải là bạn, vui lòng bỏ qua email này.',
 	'post_activated_content_4'          => '<br><br>Trân trọng,<br>The :appName Team',
@@ -80,7 +80,7 @@ return [
 	'reset_password_content_1'        => 'Quên mật khẩu?',
 	'reset_password_content_2'        => 'Trả lại mật khẩu mới cho bạn',
 	'reset_password_content_3'        => 'Nếu bạn không yêu cầu đặt lại mật khẩu, bạn không cần thực hiện thêm hành động nào nữa.',
-	'reset_password_content_4'        => '<br><br>Regards,<br>:appName',
+	'reset_password_content_4'        => '<br><br>Trân trọng,<br>:appName',
 	'reset_password_content_5'        => '<br><br>---<br>Nếu bạn gặp sự cố khi nhấp vào nút "Đặt lại mật khẩu", hãy sao chép và dán URL dưới đây vào trình duyệt web của bạn:<br> :link',
 	
 	
@@ -96,7 +96,7 @@ return [
 	
 	
 	// ad archived
-	'post_archived_title'               => 'Tài khoản của bạn đã được lưu trữ',
+	'post_archived_title'               => 'Báo cáo của bạn đã được lưu trữ',
 	'post_archived_content_1'           => 'Xin chào,<br><br>Tài khoản ":title" của bạn đã được lưu trữ từ :appName lúc :now.',
 	'post_archived_content_2'           => '<br><br>Bạn có thể repost nó bằng cách nhấn vào đây : :repostLink',
 	'post_archived_content_3'           => '<br><br>Nếu bạn không làm gì thì tài khoản của bạn sẽ bị xóa vĩnh viễn :dateDel.',

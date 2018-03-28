@@ -180,7 +180,7 @@ return [
         'phone'                 => 'Điện thoại',
         'address'               => 'Địa chỉ',
         'mobile'                => 'Di động',
-        'sex'                   => 'sex',
+        'sex'                   => 'giới tính',
         'year'                  => 'Năm',
         'month'                 => 'Tháng',
         'day'                   => 'Ngày',
