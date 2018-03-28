@@ -100,7 +100,7 @@ return [
     'Female' => 'Nữ',
     'Mr' => 'Mr',
     'Mrs' => 'Mrs',
-    'First Name' => 'Tên',
+    'First Name' => 'Tên lót',
     'Last Name' => 'Họ',
     'You are a' => 'Bạn là một',
 	'Employers' => 'Nhà tuyển dụng',
