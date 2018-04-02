@@ -10,7 +10,7 @@ return [
     'name' => 'Tên',
     'purchase_code' => 'Mã mua hàng',
 	'action' => 'hành động',
-	'site_info' => 'Thông tin trang  web',
+	'site_info' => 'Thông tin trang web',
 	'database' => 'Cơ sở dữ liệu',
 	'installation' => 'Cài đặt',
 	'requirement' => 'Yêu cầu',

@@ -29,7 +29,7 @@ return [
 	'post_activated_title'              => 'Tài khoản của bạn đã được kích hoạt',
 	'post_activated_content_1'          => 'Xin chào, <br><br>Tài khoản <a href=":postUrl">:title</a> của bạn đã được kích hoạt.',
 	'post_activated_content_2'          => '<br>Nó sẽ sớm được kiểm tra bởi một trong những quản trị viên của chúng tôi để công bố trên đường truyền.',
-	'post_activated_content_3'          => '<br><br>Bạn nhận được email này bởi vì gần đây bạn đã tạo một chiến dịch mới trên :appName. Nếu đây không phải là bạn, vui lòng bỏ qua email này.',
+	'post_activated_content_3'          => '<br><br>Bạn nhận được email này bởi vì gần đây bạn đã tạo một tài khoản mới trên :appName. Nếu đây không phải là bạn, vui lòng bỏ qua email này.',
 	'post_activated_content_4'          => '<br><br>Trân trọng,<br>The :appName Team',
 	
 	// post_reviewed (new)
@@ -69,7 +69,7 @@ return [
 	'user_activated_title'            => 'Chào mừng đến với :appName !',
 	'user_activated_content_1'        => 'Chào mừng đến với :appName :userName !',
 	'user_activated_content_2'        => '<br>Tài khoản của bạn đã được kích hoạt.',
-	'user_activated_content_3'        => '<br><br><strong>Chú thích : :appName khuyến cáo bạn rằng :</strong><br><br>1 - Không bao giờ gửi tiền bằng Western Union hoặc các uỷ nhiệm quốc tế khác.<br>2 - Nếu bạn có bất kỳ nghi ngờ về mức độ nghiêm trọng của nhà quảng cáo, vui lòng liên hệ ngay với chúng tôi. Sau đó chúng ta có thể vô hiệu hóa càng nhanh càng tốt và ngăn chặn người khác thiếu thông tin trở thành nạn nhân.',
+	'user_activated_content_3'        => '<br><br><strong>Chú thích : :appName khuyến cáo bạn rằng :</strong><br><br>1 - Không bao giờ gửi tiền bằng Western Union hoặc các uỷ nhiệm quốc tế khác.<br>2 - Nếu bạn có bất kỳ nghi ngờ về mức độ nghiêm trọng của nhà quảng cáo, vui lòng liên hệ ngay với chúng tôi. Sau đó chúng tôi có thể vô hiệu hóa càng nhanh càng tốt và ngăn chặn người khác thiếu thông tin trở thành nạn nhân.',
 	'user_activated_content_4'        => '<br><br>Bạn nhận được email này bởi vì gần đây bạn đã tạo một tài khoản mới :appName. Nếu đây không phải là bạn, vui lòng bỏ qua email này.',
 	'user_activated_content_5'        => '<br><br>Trân trọng,<br>The :appName Team',
 	
